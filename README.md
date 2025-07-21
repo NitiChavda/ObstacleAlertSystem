@@ -8,7 +8,7 @@ A simple real-time obstacle alert system using an ultrasonic sensor and Arduino.
 - Arduino Uno
 - Ultrasonic Sensor (HC-SR04)
 - Buzzer
-- C/C++ (Arduino IDE)
+- C++ (Arduino IDE)
 
 ---
 
